@@ -32,3 +32,19 @@ Formally, the optimization problem is as follows:
 
 Here xi,j and x^i,j are an inhomogeneous representation
 
+# Results
+![image](https://user-images.githubusercontent.com/50541542/195444507-562b1aa3-e012-4431-b410-dd4f26d523c6.png)
+
+![image](https://user-images.githubusercontent.com/50541542/195444580-24381289-44b8-47d0-8ef0-e0e8bd0fd408.png)
+
+![image](https://user-images.githubusercontent.com/50541542/195444665-46e0a766-a789-4dc6-8a5f-f4650351a5bb.png)
+
+![image](https://user-images.githubusercontent.com/50541542/195444819-87595f87-3c81-465d-adb6-c7c83ab63207.png)
+
+![image](https://user-images.githubusercontent.com/50541542/195444876-91c1a1ef-dc08-4c36-b7b9-4db2042e24b8.png)
+
+![image](https://user-images.githubusercontent.com/50541542/195444974-fd36ec12-d585-476d-b72b-8961e5621f1a.png)
+
+
+
+
